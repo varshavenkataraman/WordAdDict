@@ -2,16 +2,16 @@ WordAdDict is a Chrome Extension that shows the definition of a word, when doubl
 
 Files present in the repository:
 
-README.md- Documentation
-popup.html- For the popup UI
-style.css- Stylising the popup
-script.js- Popup functionality
-background.js- Background Script
-content.js- Handles interaction with the webpages
-manifest.json- Extension Setup/Configuration
-icon.png- Extension Icon
-audio_button.png- Speaker Icon for Pronunciation
-WordAdDict.crx- Ready-to-use file
+1. README.md- Documentation
+2. popup.html- For the popup UI
+3. style.css- Stylising the popup
+4. script.js- Popup functionality
+5. background.js- Background Script
+6. content.js- Handles interaction with the webpages
+7. manifest.json- Extension Setup/Configuration
+8. icon.png- Extension Icon
+9. audio_button.png- Speaker Icon for Pronunciation
+10. WordAdDict.crx- Ready-to-use file
 
 How to Use?
 (Note: Make sure you have enabled Developer Mode on chrome://extensions/. If not enabled- toggle it on the top-right corner of the page.)
