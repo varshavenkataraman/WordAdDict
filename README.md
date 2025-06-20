@@ -1,4 +1,4 @@
-WordAdDict is a Chrome Extension that shows the definition of a word when double-clicked on it. You can also listen to the pronunciation of the word, if available on Free Dictionary API.
+WordAdDict is a Chrome Extension that shows the definition of a word, when double-clicked on it. You can also listen to the pronunciation of the word, if available on Free Dictionary API.
 
 Files present in the repository:
 
@@ -24,8 +24,8 @@ Method 1- Quick Installation using .crx file:
 
 Method 2- Load Unpacked:
 1. Download the zip file, extract the files and select the WordAdDict folder through the 'Load Unpacked' button, on the top-left part of the chrome://extensions/ page.
-2.  Refresh the page you're currently reading and check whether the extension is enabled.
-3. Double-click on any word to see it definition or hear its pronunciation.
+2. Refresh the page you're currently reading and check whether the extension is enabled.
+3. Double-click on any word to see its definition or hear its pronunciation.
 Troubleshooting Tip: If you find any errors on the Extensions page, just delete them and reload the extension.
 
 Limitations:
